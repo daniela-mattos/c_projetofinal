@@ -1,0 +1,2 @@
+O projeto "Calculadora Literária" foi desenvolvido no primeiro semestre do curso de Tecnologias em Sistemas para Internet, que curso no IFRS POA, na disciplina de Linguagem de Programação I.
+A ideia de um programa para calcular o tempo de leitura foi inspiração minha que, como leitora, ouço muitas pessoas dizendo que não têm tempo para ler. Com o software em questão, a pessoa pode ver quanto tempo vai levar pra ler um livro, no seu tempo disponível. O objetivo é, oprtanto, incentivar a leitura.
